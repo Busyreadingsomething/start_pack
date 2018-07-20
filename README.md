@@ -5,7 +5,7 @@ A basic start pack for a general React app. Utilizes Webpack, React, Redux, and 
 
 ## Getting Started
 
-1Clone it down
+1. Clone it down
 
 ---
 
