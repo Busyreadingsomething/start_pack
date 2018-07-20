@@ -1,6 +1,7 @@
 const express = require('express');
 const path = require('path');
-const morgan = require('morgan');
+// --- REMOVE MORGAN PRODUCTION --- //
+const morgan = require('morgan'); // eslint-disable-line import/no-extraneous-dependencies
 
 const app = express();
 
