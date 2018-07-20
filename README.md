@@ -5,12 +5,11 @@ A basic start pack for a general React app. Utilizes Webpack, React, Redux, and 
 
 ## Getting Started
 
-1. Fork the repo
-2. Clone it down
+1Clone it down
 
 ---
 
-### Prerequisites
+## Prerequisites
 
 This starter pack requires NodeJS to run. Follow the instructions bellow to get started:
 
@@ -18,7 +17,7 @@ This starter pack requires NodeJS to run. Follow the instructions bellow to get 
 
 ``` /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" ```
 
-You'll be using this to install any major tech such as Node or Postgres. Real rangers use Homebrew~
+You'll be using this to install any major tech such as Node or Postgres.
 
 **Install node via Homebrew**
 
@@ -30,7 +29,7 @@ This will add node and npm. Neat~
 
 ---
 
-### Installing
+## Installing
 
 A step by step series of examples that tell you how to get a development env running
 
@@ -39,6 +38,8 @@ After forking and cloning to your local computer:
 1. Install dependencies with ``` npm install```
 2. Build the bundle with webpack ```npm run prod-build``` for production ```npm run dev-build``` for development
 3. Start the server with ```npm start``` for production or ```npm run server``` for development
+
+---
 
 ## DIRECTORY STRUCTURE
 ````
@@ -70,12 +71,22 @@ After forking and cloning to your local computer:
 └──webpack.config.js
 ````
 
+---
+
 ## COMES WITH
 
 * [Node](http://www.nodejs.org) - The server language
 * [Express](https://www.expressjs.com) - The server framework
 * [React](https://www.reactjs.org/) - Dependency Management
 * [Redux](https://redux.js.org) - Global store management
+* [Webpack](https://webpack.js.org) - "Module builder"
+
+---
+
+## STYLE GUIDE
+**AIRBNB**
+
+---
 
 ## Authors
 
