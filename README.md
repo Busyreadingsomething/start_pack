@@ -53,14 +53,16 @@ After forking and cloning to your local computer:
 |  |  └──App.jsx
 |  ├──containers
 |  ├──reducers
+|  |  └──index.js
 |  ├──store
+|  |  └──index.js
 |  └──index.jsx
 ├──database
 ├──public
 |  ├──assets
 |  ├──dist
 |  ├──index.html
-├  └──styles.css
+|  └──styles.css
 ├──server
 |  ├──app.js
 |  └──server.js
